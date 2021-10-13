@@ -48,6 +48,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Jelly
 
+PRODUCT_PACKAGES += \
+    GamingMode
+
 # OnDeviceAppPrediction
 PRODUCT_PACKAGES += \
     AppPredictionService
